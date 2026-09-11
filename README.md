@@ -265,3 +265,6 @@ This repository serves as the official landing page for Newscoop. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Newscoop today!**
+
+---
+**Last updated:** 2026-09-11 22:09:18 UTC
