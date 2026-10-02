@@ -267,4 +267,4 @@ This repository serves as the official landing page for Newscoop. The software i
 **Get the most recent version of Newscoop today!**
 
 ---
-**Last updated:** 2026-10-02 18:53:53 UTC
+**Last updated:** 2026-10-02 22:45:58 UTC
